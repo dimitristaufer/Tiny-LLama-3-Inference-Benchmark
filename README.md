@@ -5,7 +5,7 @@ Feel free to contribute by adding benchmarks for your own hardware!
 
 ## Benchmark Results (Default Parameters)
 
-| Machine Name, GPU Name, GPU VRAM                         | Load Model Time | Inference tok/sec |
+| Machine Name, GPU Name, GPU VRAM                         | Model Load Time | Inference tok/sec |
 |------------------------------------|-----------------|-------------------|
 | Google Colab Pro, A100, 40 GB | 4.59s           | 26.85             |
 | MacBook Pro 13" 2023, M2 Max, 32 GB | 12.87s           | 19.62             |
