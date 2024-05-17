@@ -1,4 +1,4 @@
-# Tiny LLama 3 Inference Benchmark
+# Tiny LLama 3 (FP16) Inference Benchmark
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 Feel free to contribute by adding benchmarks for your own hardware!
