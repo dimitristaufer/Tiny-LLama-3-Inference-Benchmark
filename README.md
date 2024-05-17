@@ -9,7 +9,7 @@ Feel free to contribute by adding benchmarks for your own hardware!
 |------------------------------------|-----------------|-------------------|
 | Google Colab Pro, A100, 40 GB | 4.59s           | 26.85             |
 | MacBook Pro 13" 2023, M2 Max, 32 GB | 12.87s           | 19.49             |
-| Google Colab Pro, L4, 22.5 GB | 4.6s           | 17.67             |
+| Google Colab Pro, L4, 22.5 GB | 4.60s           | 17.67             |
 | Google Colab Pro, T4, 15 GB | OUT OF MEMORY           | OUT OF MEMORY             |
 
 ## Usage
