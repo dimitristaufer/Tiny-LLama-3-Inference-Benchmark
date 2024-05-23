@@ -8,12 +8,12 @@ Feel free to contribute by adding benchmarks for your own hardware!
 | Machine Name, GPU Name, GPU VRAM                         | Model Load Time | Inference tok/sec |
 |------------------------------------|-----------------|-------------------|
 | RunPod, A40, 48GB             | 3.10s           | 34.55             |
-| Dell Server, V100S, 32GB      | 3.24s           | 34.55             |
+| Dell Server, V100S, 32GB      | 3.24s           | 36.24             |
 | Google Colab Pro, A100, 40 GB | 4.59s           | 26.85             |
 | MacBook Pro 13" 2023, M2 Max, 32 GB | 12.87s           | 19.62             |
 | Google Colab Pro, L4, 22.5 GB | 4.60s           | 17.67             |
 | Google Colab Pro, T4, 15 GB | OUT OF MEMORY           | OUT OF MEMORY             |
-| Dell Precision 7550, Quadro RTX 4000, 8 GB | OUT OF MEMORY | OUT OF MEMORY |
+| Dell Precision, Quadro RTX 4000, 8 GB | OUT OF MEMORY | OUT OF MEMORY |
 
 
 ## Usage
