@@ -5,16 +5,18 @@ Feel free to contribute by adding benchmarks for your own hardware!
 
 ## Benchmark Results (Default Parameters)
 
-| Machine Name, GPU Name, GPU VRAM                         | Model Load Time | Inference tok/sec |
-|------------------------------------|-----------------|-------------------|
-| RunPod, A40, 48GB             | 3.10s           | 34.55             |
-| Dell Server, V100S, 32GB      | 3.24s           | 36.24             |
-| Google Colab Pro, A100, 40 GB | 4.59s           | 26.85             |
-| MacBook Pro 14" 2023, M3 Max, 128GB | 1.61s     | 19.68             |
-| MacBook Pro 13" 2023, M2 Max, 32 GB | 12.87s    | 19.62             |
-| Google Colab Pro, L4, 22.5 GB | 4.60s           | 17.67             |
-| Google Colab Pro, T4, 15 GB | OUT OF MEMORY           | OUT OF MEMORY |
-| Dell Precision, Quadro RTX 4000, 8 GB | OUT OF MEMORY | OUT OF MEMORY |
+| Machine Name, GPU Name, GPU VRAM               | Model Load Time | Inference tok/sec |
+|-------------------------------------------------|-----------------|-------------------|
+| Dell Server, V100S, 32GB                        | 3.24s           | 36.24             |
+| RunPod, A40, 48GB                               | 3.10s           | 34.55             |
+| Mac Studio 2025, M3 Max, 256GB                  | 0.76s           | 30.40             |
+| Google Colab Pro, A100, 40GB                    | 4.59s           | 26.85             |
+| MacBook Pro 14" 2023, M3 Max, 128GB             | 1.61s           | 19.68             |
+| MacBook Pro 13" 2023, M2 Max, 32GB              | 12.87s          | 19.62             |
+| Google Colab Pro, L4, 22.5GB                    | 4.60s           | 17.67             |
+| Google Colab Pro, T4, 15GB                      | OUT OF MEMORY   | OUT OF MEMORY     |
+| Dell Precision, Quadro RTX 4000, 8GB            | OUT OF MEMORY   | OUT OF MEMORY     |
+
 
 
 ## Usage
